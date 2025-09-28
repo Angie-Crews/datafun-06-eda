@@ -4,7 +4,7 @@
 *Updated CSV Data: https://flavorsofcacao.com/chocolate_database.html*
 
 
-***Chocolate Bar Ratings***  
+🍫 ***Chocolate Bar Ratings***  
 Expert ratings of over 1,700 chocolate bars
 
 ***About Dataset***  
@@ -36,4 +36,6 @@ These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan
 ***Inspiration***  
 Where are the best cocoa beans grown?  
 Which countries produce the highest-rated bars?  
-What’s the relationship between cocoa solids percentage and rating?
+What’s the relationship between cocoa solids percentage and rating?  
+
+<img src="https://em-content.zobj.net/thumbs/240/apple/354/chestnut_1f330.png" alt="cacao bean" width="32" style="vertical-align:middle">
