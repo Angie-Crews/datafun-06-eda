@@ -38,4 +38,4 @@ Where are the best cocoa beans grown?
 Which countries produce the highest-rated bars?  
 What’s the relationship between cocoa solids percentage and rating?  
 
-<img src="https://em-content.zobj.net/thumbs/240/apple/354/chestnut_1f330.png" alt="cacao bean" width="32" style="vertical-align:middle">
+🌰🌰🌰🌰🌰🌰🌰🌰🌰🌰🌰🌰🌰🌰
