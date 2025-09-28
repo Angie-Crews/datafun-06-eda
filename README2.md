@@ -1,17 +1,17 @@
 ### Kaggle -- Rachael Tatman
 
-*Source Information:  https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings/data*
+*Source Information:  https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings/data*  
 *Updated CSV Data: https://flavorsofcacao.com/chocolate_database.html*
 
 
-***Chocolate Bar Ratings***
+***Chocolate Bar Ratings***  
 Expert ratings of over 1,700 chocolate bars
 
-***About Dataset***
+***About Dataset***  
 Context
 Chocolate is one of the most popular candies in the world. Each year, residents of the United States collectively eat more than 2.8 billions pounds. However, not all chocolate bars are created equal! This dataset contains expert ratings of over 1,700 individual chocolate bars, along with information on their regional origin, percentage of cocoa, the variety of chocolate bean used and where the beans were grown.
 
-***Flavors of Cacao Rating System:***
+***Flavors of Cacao Rating System:***  
 5 = Elite (Transcending beyond the ordinary limits)  
 4 = Premium (Superior flavor development, character and style)  
 3 = Satisfactory(3.0) to praiseworthy(3.75) (well made with special qualities)  
@@ -30,10 +30,10 @@ Aftermelt is the experience after the chocolate has melted. Higher quality choco
 
 Overall Opinion is really where the ratings reflect a subjective opinion. Ideally it is my evaluation of whether or not the components above worked together and an opinion on the flavor development, character and style. It is also here where each chocolate can usually be summarized by the most prominent impressions that you would remember about each chocolate.
 
-***Acknowledgements***
+***Acknowledgements***  
 These ratings were compiled by Brady Brelinski, Founding Member of the Manhattan Chocolate Society. For up-to-date information, as well as additional content (including interviews with craft chocolate makers), please see his website: Flavors of Cacao
 
-***Inspiration***
+***Inspiration***  
 Where are the best cocoa beans grown?  
 Which countries produce the highest-rated bars?  
 What’s the relationship between cocoa solids percentage and rating?
