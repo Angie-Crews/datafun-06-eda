@@ -86,13 +86,13 @@ py myfile.py
 ```
 
 ### 09 Select Notebook Kernel
-From VS Code Menu, select View / Command Palette... (CTRL SHIFT P)
-Type: Python: Select Interpreter
-Choose your .venv from the list
+1. From VS Code Menu, select View / Command Palette... (CTRL SHIFT P)
+2. Type: Python: Select Interpreter
+3. Choose your .venv from the list
 
 ### 10 Start and Run a Jupyter Notebook
-Open the project notebook in VS Code. The file will have a .ipynb extension.
-Execute cells:
-     Click on a cell and press Shift+Enter to execute it and move to the next cell.
-     Alternatively, use Ctrl+Enter to execute the current cell without moving.
-Save your notebook periodically to avoid losing progress. Or make sure the File / Autosave option is on.
+1. Open the project notebook in VS Code. The file will have a .ipynb extension.
+2. Execute cells:
+    a. Click on a cell and press Shift+Enter to execute it and move to the next cell.
+    b. Alternatively, use Ctrl+Enter to execute the current cell without moving.
+3. Save your notebook periodically to avoid losing progress. Or make sure the File / Autosave option is on.
