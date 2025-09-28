@@ -5,7 +5,7 @@
 
 ### 02 Clone Repo to Local
 ```shell
-git clone https://github.com/Angie-Crews/datafun-05-sql-project
+git clone https://github.com/Angie-Crews/datafun-06-eda
 ```
 
 ### 03 Create .gitignore and requirements.txt and copy contents of each
@@ -84,3 +84,15 @@ Run the following commands from the project root directory. The commands work in
 .\.venv\Scripts\activate
 py myfile.py
 ```
+
+### 09 Select Notebook Kernel
+From VS Code Menu, select View / Command Palette... (CTRL SHIFT P)
+Type: Python: Select Interpreter
+Choose your .venv from the list
+
+### 10 Start and Run a Jupyter Notebook
+Open the project notebook in VS Code. The file will have a .ipynb extension.
+Execute cells:
+     Click on a cell and press Shift+Enter to execute it and move to the next cell.
+     Alternatively, use Ctrl+Enter to execute the current cell without moving.
+Save your notebook periodically to avoid losing progress. Or make sure the File / Autosave option is on.
