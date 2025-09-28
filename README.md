@@ -1,4 +1,4 @@
-# CC6.1 Start a Python EDA Project
+# CC6.1 Start a Python EDA Project and CC6.2 Choose a Data Source
 
 
 ### 01 Create New Repository
@@ -86,13 +86,18 @@ py myfile.py
 ```
 
 ### 09 Select Notebook Kernel
-1. From VS Code Menu, select View / Command Palette... (CTRL SHIFT P)
-2. Type: Python: Select Interpreter
-3. Choose your .venv from the list
+From VS Code Menu, select View / Command Palette... (CTRL SHIFT P)  
+Type: Python: Select Interpreter  
+Choose your .venv from the list  
 
 ### 10 Start and Run a Jupyter Notebook
-1. Open the project notebook in VS Code. The file will have a .ipynb extension.
-2. Execute cells:
-    a. Click on a cell and press Shift+Enter to execute it and move to the next cell.
-    b. Alternatively, use Ctrl+Enter to execute the current cell without moving.
-3. Save your notebook periodically to avoid losing progress. Or make sure the File / Autosave option is on.
+Open the project notebook in VS Code. The file will have a .ipynb extension.  
+Execute cells:  
+    Click on a cell and press Shift+Enter to execute it and move to the next cell.  
+    Alternatively, use Ctrl+Enter to execute the current cell without moving.  
+Save your notebook periodically to avoid losing progress. Or make sure the File / Autosave option is on.  
+
+### 11 Choose a Data Source  
+Kaggle Datasets  
+*Source Information:  https://www.kaggle.com/datasets/rtatman/chocolate-bar-ratings/data*  
+*Updated CSV Data: https://flavorsofcacao.com/chocolate_database.html*
